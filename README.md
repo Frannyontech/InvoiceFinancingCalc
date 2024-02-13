@@ -1,4 +1,4 @@
-# Calculadora de Financiamiento de Facturas
+# Calculadora de Financiamiento de Facturas :leopard:
 
 Este programa en Ruby se conecta a una API para obtener información de cotización de facturas y calcula el costo de financiamiento, el monto a recibir y los excedentes basados en la cotización y los datos de la factura.
 
